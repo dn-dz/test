@@ -1,0 +1,3113 @@
+2016-02-19 17:16:41 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:16:41 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:16:44 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined function apc_fetch()' in C:\OpenServer\domains\artem.yii\app\views\layouts\check_project.php:7
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2016-02-19 17:16:41 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5450'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891401.315
+    'REQUEST_TIME' => 1455891401
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:20:56 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:20:56 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:20:57 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][error][yii\base\ErrorException:1] exception 'yii\base\ErrorException' with message 'Call to undefined function apc_fetch()' in C:\OpenServer\domains\artem.yii\app\views\layouts\check_project.php:7
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2016-02-19 17:20:55 [127.0.0.1][-][6uu4gcrbsjtl0ti8ddpfp10lc2][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5503'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891654.891
+    'REQUEST_TIME' => 1455891654
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:21:49 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:49 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:49 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5516'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891709.603
+    'REQUEST_TIME' => 1455891709
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:21:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:51 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:51 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5518'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891711.721
+    'REQUEST_TIME' => 1455891711
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:21:52 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:52 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:52 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:51 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5522'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891711.738
+    'REQUEST_TIME' => 1455891711
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:21:55 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:55 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:55 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5522'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891715.337
+    'REQUEST_TIME' => 1455891715
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:56 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5518'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891716.02
+    'REQUEST_TIME' => 1455891716
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:56 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:56 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5517'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891716.021
+    'REQUEST_TIME' => 1455891716
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:59 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5517'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891719.122
+    'REQUEST_TIME' => 1455891719
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:59 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5517'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891719.487
+    'REQUEST_TIME' => 1455891719
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:21:59 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:21:59 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5522'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891719.489
+    'REQUEST_TIME' => 1455891719
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:00 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/ka-GE/admin.php Fallback file does not exist as well: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/ka/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:00 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/ka-GE/yii.php Fallback file does not exist as well: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/ka/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:00 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5522'
+    'REDIRECT_URL' => '/ge'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/ge'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891720.62
+    'REQUEST_TIME' => 1455891720
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:01 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5522'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891721.031
+    'REQUEST_TIME' => 1455891721
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:01 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:01 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5518'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891721.03
+    'REQUEST_TIME' => 1455891721
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:06 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:06 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:06 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/ge'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5518'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891726.516
+    'REQUEST_TIME' => 1455891726
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:22:06 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:06 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:06 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:06 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5518'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891726.84
+    'REQUEST_TIME' => 1455891726
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:07 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:07 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:07 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:06 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5517'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891726.842
+    'REQUEST_TIME' => 1455891726
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:27 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:27 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:27 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5557'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891747.781
+    'REQUEST_TIME' => 1455891747
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:28 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5559'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891748.136
+    'REQUEST_TIME' => 1455891748
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:28 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:28 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5557'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891748.183
+    'REQUEST_TIME' => 1455891748
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:36 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:36 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:36 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5557'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891756.534
+    'REQUEST_TIME' => 1455891756
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:36 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5557'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891756.902
+    'REQUEST_TIME' => 1455891756
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:37 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:36 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5560'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891756.942
+    'REQUEST_TIME' => 1455891756
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:38 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:38 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:38 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5560'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891758.486
+    'REQUEST_TIME' => 1455891758
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:22:38 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:38 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:38 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:38 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5560'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891758.858
+    'REQUEST_TIME' => 1455891758
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:22:39 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:22:39 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:22:39 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:22:38 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5557'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455891758.858
+    'REQUEST_TIME' => 1455891758
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:26:47 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:47 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:47 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5626'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892007.609
+    'REQUEST_TIME' => 1455892007
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:26:48 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5626'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892008.054
+    'REQUEST_TIME' => 1455892008
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:48 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:26:48 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5628'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892008.054
+    'REQUEST_TIME' => 1455892008
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:26:50 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:50 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:50 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5628'
+    'REDIRECT_URL' => '/en'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892010.59
+    'REQUEST_TIME' => 1455892010
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:26:50 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'preloader.GIF'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5628'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/preloader.GIF?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892010.977
+    'REQUEST_TIME' => 1455892010
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 17:26:51 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 17:26:50 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'submenu-icon.png'
+    'slug2' => 'images'
+    'slug1' => 'icons'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '5626'
+    'REDIRECT_QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REDIRECT_URL' => '/en/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'slug2=images&slug1=icons'
+    'REQUEST_URI' => '/en/submenu-icon.png?slug2=images&slug1=icons'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455892010.977
+    'REQUEST_TIME' => 1455892010
+    'argv' => [
+        0 => 'slug2=images&slug1=icons'
+    ]
+    'argc' => 1
+]
+2016-02-19 18:08:54 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:08:54 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'preloader.GIF'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6797'
+    'REDIRECT_URL' => '/images/icons/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/preloader.GIF'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894534.759
+    'REQUEST_TIME' => 1455894534
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:08:55 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:08:54 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'submenu-icon.png'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6796'
+    'REDIRECT_URL' => '/images/icons/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/submenu-icon.png'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894534.762
+    'REQUEST_TIME' => 1455894534
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:08:55 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('favicon.ico', false, false)
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:08:55 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug' => 'favicon.ico'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_REFERER' => 'http://artem.yii/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6796'
+    'REDIRECT_URL' => '/favicon.ico'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/favicon.ico'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894535.783
+    'REQUEST_TIME' => 1455894535
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:03 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 18:09:03 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 18:09:03 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6796'
+    'REDIRECT_URL' => '/en/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894542.999
+    'REQUEST_TIME' => 1455894542
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:03 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:03 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'preloader.GIF'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6796'
+    'REDIRECT_URL' => '/images/icons/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/preloader.GIF'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894543.19
+    'REQUEST_TIME' => 1455894543
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:03 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:03 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'submenu-icon.png'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6795'
+    'REDIRECT_URL' => '/images/icons/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/submenu-icon.png'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894543.272
+    'REQUEST_TIME' => 1455894543
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:05 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/ka-GE/admin.php Fallback file does not exist as well: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/ka/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 18:09:05 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/ka-GE/yii.php Fallback file does not exist as well: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/ka/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 18:09:05 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/en/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6795'
+    'REDIRECT_URL' => '/ge/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/ge/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894545.04
+    'REQUEST_TIME' => 1455894545
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:05 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:05 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'preloader.GIF'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6795'
+    'REDIRECT_URL' => '/images/icons/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/preloader.GIF'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894545.229
+    'REQUEST_TIME' => 1455894545
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:05 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:05 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'submenu-icon.png'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6797'
+    'REDIRECT_URL' => '/images/icons/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/submenu-icon.png'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894545.279
+    'REQUEST_TIME' => 1455894545
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:12 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'easyii' does not exist: C:\OpenServer\domains\artem.yii/vendor/noumo/easyii/messages/en/admin.php
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\models\Page.php:25
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:170
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+2016-02-19 18:09:12 [127.0.0.1][-][-][error][yii\i18n\PhpMessageSource::loadMessages] The message file for category 'yii' does not exist: C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2/messages/en/yii.php
+    in C:\OpenServer\domains\artem.yii\app\components\multilingual\MultilingualBehavior.php:171
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:44
+    in C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\modules\page\api\Page.php:37
+2016-02-19 18:09:12 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/ge/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6797'
+    'REDIRECT_URL' => '/en/'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/en/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894552.51
+    'REQUEST_TIME' => 1455894552
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:12 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:12 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'preloader.GIF'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6797'
+    'REDIRECT_URL' => '/images/icons/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/preloader.GIF'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894552.764
+    'REQUEST_TIME' => 1455894552
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:13 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:12 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'submenu-icon.png'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6795'
+    'REDIRECT_URL' => '/images/icons/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/submenu-icon.png'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894552.789
+    'REQUEST_TIME' => 1455894552
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('preloader.GIF', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:14 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'preloader.GIF'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6795'
+    'REDIRECT_URL' => '/images/icons/preloader.GIF'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/preloader.GIF'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894554.243
+    'REQUEST_TIME' => 1455894554
+    'argv' => []
+    'argc' => 0
+]
+2016-02-19 18:09:14 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' in C:\OpenServer\domains\artem.yii\app\controllers\SiteController.php:44
+Stack trace:
+#0 [internal function]: app\controllers\SiteController->actionViewPage('submenu-icon.pn...', 'icons', 'images')
+#1 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Array)
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams(Array)
+#3 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction('view-page', Array)
+#4 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\web\Application.php(84): yii\base\Module->runAction('site/view-page', Array)
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#6 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Application->run()
+#7 {main}
+2016-02-19 18:09:14 [127.0.0.1][-][-][info][application] $_GET = [
+    'slug2' => 'images'
+    'slug1' => 'icons'
+    'slug' => 'submenu-icon.png'
+]
+
+$_COOKIE = [
+    'PHPSESSID' => '6uu4gcrbsjtl0ti8ddpfp10lc2'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'artem.yii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'
+    'HTTP_REFERER' => 'http://artem.yii/css/style.css'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.8,en;q=0.6'
+    'HTTP_COOKIE' => 'PHPSESSID=6uu4gcrbsjtl0ti8ddpfp10lc2'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-5.6\\ext;c:\\openserver\\modules\\php\\PHP-5.6\\pear;c:\\openserver\\modules\\php\\PHP-5.6\\pear\\bin;c:\\openserver\\modules\\php\\PHP-5.6;c:\\openserver\\modules\\imagemagick;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\git;c:\\openserver\\modules\\git\\bin;c:\\openserver\\modules\\git\\mingw\\bin;c:\\openserver\\modules\\git\\cmd;c:\\openserver\\modules\\database\\MySQL-5.5\\bin;c:\\openserver\\modules\\http\\Apache-2.4\\bin;c:\\openserver\\modules\\http\\Apache-2.4;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.16 (Win32)'
+    'SERVER_NAME' => 'artem.yii'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/artem.yii'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/artem.yii/index.php'
+    'REMOTE_PORT' => '6796'
+    'REDIRECT_URL' => '/images/icons/submenu-icon.png'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/images/icons/submenu-icon.png'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1455894554.3
+    'REQUEST_TIME' => 1455894554
+    'argv' => []
+    'argc' => 0
+]
