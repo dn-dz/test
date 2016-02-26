@@ -50,7 +50,7 @@ if ($keywords) {
     <div class="desc-box">
         <div class="auto-container">
             <div class="sec-title no-underline">
-                <h3>AUTOLOG HISTORY</h3>
+                <h3>БЛА-БЛА</h3>
                 <h2>EVERYTHING BEGAN IN A GARAGE</h2>
                 <p>Pellentesque semper quis neque dictum hendrerit. Sed nulla ipsum, porttitor pharetra tortor in, <br>consequat imperdiet nisi. Phasellus at quam tristique, cursus tellus vitae, convallis neque. </p>
             </div>
