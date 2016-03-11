@@ -1,0 +1,93 @@
+Message-ID: <cc210631e158d6346ae9acdec6ae4af2@artem.yii>
+Date: Thu, 10 Mar 2016 17:42:50 +0300
+Subject: =?utf-8?Q?=D0=A2=D0=B5=D0=BC=D0=B0_=D1=81=D0=BE=D0=BE?=
+ =?utf-8?Q?=D0=B1=D1=89=D0=B5=D0=BD=D0=B8=D1=8F?=
+From: admin@54mbit.pp.ua
+To: admin@54mbit.pp.ua
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1457620970_019cf2e3667583f2578f7e6bf8d7f48c_=_"
+
+
+--_=_swift_v4_1457620970_019cf2e3667583f2578f7e6bf8d7f48c_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=D0=A2=D0=B5=D0=BA=D1=81=D1=82 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=D0=
+=BD=D0=B8=D1=8F
+
+--_=_swift_v4_1457620970_019cf2e3667583f2578f7e6bf8d7f48c_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<b>=D1=82=D0=B5=D0=BA=D1=81=D1=82 =D1=81=D0=BE=D0=BE=D0=B1=D1=89=D0=B5=
+=D0=BD=D0=B8=D1=8F =D0=B2 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 HTML</=
+b>exception 'yii\base\InvalidConfigException' with message 'The table does =
+not exist: easyii_article_categories_lang' in C:\OpenServer\domains\artem.y=
+ii\vendor\yiisoft\yii2\db\ActiveRecord.php:298
+Stack trace:
+#0 C:\OpenS=
+erver\domains\artem.yii\vendor\yiisoft\yii2\db\ActiveRecord.php(327): yii\d=
+b\ActiveRecord::getTableSchema()
+#1 C:\OpenServer\domains\artem.yii\vendo=
+r\yiisoft\yii2\db\BaseActiveRecord.php(422): yii\db\ActiveRecord->attribute=
+s()
+#2 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\db\BaseActiveR=
+ecord.php(241): yii\db\BaseActiveRecord->hasAttribute('title')
+#3 C:\Open=
+Server\domains\artem.yii\app\components\multilingual\MultilingualBehavior.p=
+hp(210): yii\db\BaseActiveRecord->__get('title')
+#4 C:\OpenServer\domains=
+\artem.yii\vendor\yiisoft\yii2\base\Component.php(672): app\components\mult=
+ilingual\MultilingualBehavior->attach(Object(yii\easyii\modules\article\mod=
+els\Category))
+#5 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\bas=
+e\Component.php(647): yii\base\Component->attachBehaviorInternal('ml', Arra=
+y)
+#6 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Component.=
+php(529): yii\base\Component->ensureBehaviors()
+#7 C:\OpenServer\domains\=
+artem.yii\vendor\yiisoft\yii2\db\BaseActiveRecord.php(846): yii\base\Compon=
+ent->trigger('init')
+#8 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yi=
+i2\base\Object.php(107): yii\db\BaseActiveRecord->init()
+#9 C:\OpenServer=
+\domains\artem.yii\vendor\yiisoft\yii2\db\ActiveQueryTrait.php(162): yii\ba=
+se\Object->__construct()
+#10 C:\OpenServer\domains\artem.yii\vendor\yiiso=
+ft\yii2\db\ActiveQuery.php(225): yii\db\ActiveQuery->findWith(Array, Array)=
+
+#11 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\db\Query.php(207=
+): yii\db\ActiveQuery->populate(Array)
+#12 C:\OpenServer\domains\artem.yi=
+i\vendor\yiisoft\yii2\db\ActiveQuery.php(132): yii\db\Query->all(NULL)
+#1=
+3 C:\OpenServer\domains\artem.yii\vendor\noumo\easyii\components\CategoryMo=
+del.php(206): yii\db\ActiveQuery->all()
+#14 C:\OpenServer\domains\artem.y=
+ii\vendor\noumo\easyii\components\CategoryModel.php(146): yii\easyii\compon=
+ents\CategoryModel::generateFlat()
+#15 C:\OpenServer\domains\artem.yii\ve=
+ndor\noumo\easyii\components\CategoryController.php(34): yii\easyii\compone=
+nts\CategoryModel::cats()
+#16 [internal function]: yii\easyii\components\=
+CategoryController->actionIndex()
+#17 C:\OpenServer\domains\artem.yii\ven=
+dor\yiisoft\yii2\base\InlineAction.php(55): call_user_func_array(Array, Arr=
+ay)
+#18 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base\Controll=
+er.php(151): yii\base\InlineAction->runWithParams(Array)
+#19 C:\OpenServe=
+r\domains\artem.yii\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Cont=
+roller->runAction('', Array)
+#20 C:\OpenServer\domains\artem.yii\vendor\y=
+iisoft\yii2\web\Application.php(84): yii\base\Module->runAction('admin/arti=
+cle', Array)
+#21 C:\OpenServer\domains\artem.yii\vendor\yiisoft\yii2\base=
+\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Re=
+quest))
+#22 C:\OpenServer\domains\artem.yii\index.php(12): yii\base\Appli=
+cation->run()
+#23 {main}
+
+--_=_swift_v4_1457620970_019cf2e3667583f2578f7e6bf8d7f48c_=_--

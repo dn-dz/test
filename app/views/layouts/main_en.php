@@ -1,6 +1,7 @@
 <?php
 use yii\helpers\Html;
 use app\widgets\LangSwitcher;
+use app\widgets\MenuWidget;
 
 $asset = \app\assets\AppAsset::register($this);
 \app\assets\SiteAsset::register($this);
@@ -103,7 +104,7 @@ $asset = \app\assets\AppAsset::register($this);
 
                         <div class="navbar-collapse collapse clearfix">
                             <ul class="navigation">
-                                <li class="current"><a href="/<?= Yii::$app->urlManager->getCurLangCode() ?>">Home</a>
+<!--                                <li class="current"><a href="/<?= Yii::$app->urlManager->getCurLangCode() ?>">Home</a>
                                 </li>
                                 <li class=""><a href="/o-nas">About Us</a></li>
                                 <li class="dropdown"><a href="/uslugi">Uslugi</a>
@@ -114,7 +115,8 @@ $asset = \app\assets\AppAsset::register($this);
                                     <div class="dropdown-btn"></div></li>
                                 <li class=""><a href="<?= \yii\helpers\Url::to(['gallery/index']) ?>">gallery</a></li>
 
-                                <li><a href="/contacts">Contacts</a></li>
+                                <li><a href="/contacts">Contacts</a></li>-->
+                                <?= MenuWidget::widget() ?>
                             </ul>
                         </div>
                     </nav><!-- Main Menu End-->

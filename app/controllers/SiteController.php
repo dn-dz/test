@@ -2,6 +2,11 @@
 
 namespace app\controllers;
 
+use Yii;
+use yii\base\ErrorException;
+use yii\easyii\modules\menu\api\Menu;
+use yii\easyii\modules\menu\models\Menu as MenuModel;
+
 use yii\web\Controller;
 use yii\easyii\modules\page\api\Page;
 use yii\easyii\modules\page\models\Page as PageModel;
@@ -10,6 +15,7 @@ use yii\web\NotFoundHttpException;
 
 class SiteController extends Controller
 {
+    public $html;
     public function actions()
     {
         return [
@@ -29,7 +35,7 @@ class SiteController extends Controller
 
     public function actionIndex()
     {
-        return $this->render('index');
+        return $this->render('index', ['html' => $this->html]);
     }
 
     public function actionViewPage($slug,$slug1 = false, $slug2 = false)
@@ -87,11 +93,14 @@ class SiteController extends Controller
                 }
             }
         }
+
         throw new NotFoundHttpException();
+
         //var_dump($slug, $slug1, $slug2);
         //var_dump(Page::get($slug)->model);
 
         //return $this->render('index');
+
     }
 
 }

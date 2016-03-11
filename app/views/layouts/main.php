@@ -1,9 +1,11 @@
 <?php
 use yii\helpers\Html;
 use app\widgets\LangSwitcher;
+use app\widgets\MenuWidget;
 
 $asset = \app\assets\AppAsset::register($this);
 \app\assets\SiteAsset::register($this);
+
 ?>
 <?php /* $this->beginPage() ?>
     <!DOCTYPE html>
@@ -103,9 +105,9 @@ $asset = \app\assets\AppAsset::register($this);
                         </button>
                     </div>
 
-                    <div class="navbar-collapse collapse clearfix">
-                        <ul class="navigation">
-                            <li class="current"><a href="/">Главная</a>
+                   <div class="navbar-collapse collapse clearfix">
+                        <ul class="navigation" id="menu" id="0">
+<!--                            <li class="current"><a href="/">Главная</a>
                                 </li>
                             <li class=""><a href="<?= Yii::$app->urlManager->getLangUrl('/o-nas'); ?>">О нас</a></li>
                             <li class="dropdown"><a href="<?= Yii::$app->urlManager->getLangUrl('/uslugi') ?>">Услуги</a>
@@ -116,6 +118,8 @@ $asset = \app\assets\AppAsset::register($this);
                                 <div class="dropdown-btn"></div></li>
                             <li class=""><a href="<?= \yii\helpers\Url::to(['gallery/index']) ?>">Галерея</a></li>
                             <li><a href="<?= Yii::$app->urlManager->getLangUrl('/contacts') ?>">Контакты</a></li>
+                            -->
+                            <?= MenuWidget::widget() ?>
                         </ul>
                     </div>
                 </nav><!-- Main Menu End-->

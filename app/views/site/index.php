@@ -3,12 +3,12 @@ use yii\helpers\Url;
 use yii\easyii\modules\page\api\Page;
 use yii\helpers\Html;
 
-
 $page = Page::get('page-index');
 if ($page) {
     $this->title = $page->model->seo_title;
     $description = $page->model->seo_description;
     $keywords = $page->model->seo_keywords;
+   # echo asdas$sss;
 }
 
 if ($description) {
@@ -26,9 +26,6 @@ if ($keywords) {
 
 ?>
 
-
-
-
 <!--Page Title-->
 <section class="page-title" style="background-image:url(/images/background/page-title-1.jpg);">
     <div class="auto-container">
@@ -43,15 +40,14 @@ if ($keywords) {
 
 </section>
 
-
 <!--About Section-->
 <section class="about-section" id="about-section">
     <!--Desc Box-->
     <div class="desc-box">
         <div class="auto-container">
             <div class="sec-title no-underline">
-                <h3>БЛА-БЛА</h3>
-                <h2>ВСЁ НАЧИНАЕТСЯ С ХОЛОДИЛЬНИКА</h2>
+                <h3>AUTOLOG HISTORY</h3>
+                <h2>EVERYTHING BEGAN IN A GARAGE</h2>
                 <p>Pellentesque semper quis neque dictum hendrerit. Sed nulla ipsum, porttitor pharetra tortor in, <br>consequat imperdiet nisi. Phasellus at quam tristique, cursus tellus vitae, convallis neque. </p>
             </div>
         </div>
@@ -297,5 +293,3 @@ if ($keywords) {
             <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1190px, 0px, 0px); transition: 0.75s; width: 3569.99px;"><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-1.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-2.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-3.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-4.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-5.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-6.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-1.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-2.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-3.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-4.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-5.png" alt="" title=""></a></li></div><div class="owl-item active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-6.png" alt="" title=""></a></li></div><div class="owl-item cloned active" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-1.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-2.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-3.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-4.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-5.png" alt="" title=""></a></li></div><div class="owl-item cloned" style="width: 178.333px; margin-right: 20px;"><li><a href="http://wp1.themexlab.com/html/autolog/about.html#"><img src="/images/logo-6.png" alt="" title=""></a></li></div></div></div><div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style="display: none;">prev</div><div class="owl-next" style="display: none;">next</div></div><div class="owl-dots" style="display: block;"><div class="owl-dot active"><span></span></div></div></div></ul>
     </div>
 </section>
-
-

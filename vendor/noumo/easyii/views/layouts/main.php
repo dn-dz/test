@@ -5,6 +5,7 @@ use yii\easyii\assets\AdminAsset;
 
 $asset = AdminAsset::register($this);
 $moduleName = $this->context->module->id;
+
 ?>
 <?php $this->beginPage() ?>
 <html lang="<?= Yii::$app->language ?>">

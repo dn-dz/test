@@ -1,6 +1,12 @@
 <?php
 use yii\helpers\Html;
+
 $this->title = $name;
+
+if(empty($message)){
+    $message=$name;
+}
+
 ?>
 
 
@@ -16,10 +22,10 @@ $this->title = $name;
     </div>
 
     <div class="page-content col-md-12">
-        <h1 style="text-align: center; font-size: 30px;padding: 50px 0"><?= Html::encode($this->title) ?></h1>
+        <h1 style="text-align: center; font-size: 30px;padding: 50px 0"><?= Html::encode($message) ?></h1>
 
         <div>
-            <?= nl2br(Html::encode($message)) ?>
+            <?= nl2br(Html::encode($this->title)) ?>
         </div>
     </div>
 
