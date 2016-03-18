@@ -76,7 +76,7 @@ class Menu extends \yii\easyii\components\API
         if($item->url==""){
             $item->url="#";
         }
-        $html.="<a href='".Url::to($item->url)."'>".$item->title."</a>";
+        $html.="<a href='".Url::toRoute($item->url)."'>".$item->title."</a>";
         $ul = false; // Выводились ли дочерние элементы?
         while (true) {
             /* Бесконечный цикл, в котором мы ищем все дочерние элементы */

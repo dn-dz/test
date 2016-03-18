@@ -42,10 +42,10 @@ $config = [
                 '<controller:\w+>/view/<slug:[\w-]+>' => '<controller>/view',
                 '<controller:\w+>/<action:\w+>/<id:\d+>' => '<controller>/<action>',
                 '<controller:(admin)>' => '<controller>/default/index',
-                '<controller:(admin|news|gallery)>' => '<controller>/index',
+                '<controller:(admin|news|gallery|faq)>' => '<controller>/index',
 
-                '<controller:(admin|news|gallery)>/<action:\w+>' => '<controller>/<action>',
-                '<controller:(admin|news|gallery)>/<action:\w+>/<action2>' => '<controller>/<action>/<action2>',
+                '<controller:(admin|news|gallery|faq)>/<action:\w+>' => '<controller>/<action>',
+                '<controller:(admin|news|gallery|faq)>/<action:\w+>/<action2>' => '<controller>/<action>/<action2>',
                 '<controller:\w+>/cat/<slug:[\w-]+>' => '<controller>/cat',
                 '/<slug:>' => '/site/view-page',
                 '/<slug1:>/<slug:>' => '/site/view-page',

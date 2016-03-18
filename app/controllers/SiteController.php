@@ -18,7 +18,24 @@ class SiteController extends Controller
     public $html;
     public function actions()
     {
+        $modelClass = 'namespace\ModelName';
         return [
+            'moveNode' => [
+                'class' => 'voskobovich\tree\manager\actions\MoveNodeAction',
+                'modelClass' => $modelClass,
+            ],
+            'deleteNode' => [
+                'class' => 'voskobovich\tree\manager\actions\DeleteNodeAction',
+                'modelClass' => $modelClass,
+            ],
+            'updateNode' => [
+                'class' => 'voskobovich\tree\manager\actions\UpdateNodeAction',
+                'modelClass' => $modelClass,
+            ],
+            'createNode' => [
+                'class' => 'voskobovich\tree\manager\actions\CreateNodeAction',
+                'modelClass' => $modelClass,
+            ],
             'error' => [
                 'class' => 'yii\web\ErrorAction',
             ],
